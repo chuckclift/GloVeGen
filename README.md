@@ -1,2 +1,2 @@
-# GloVeGen
-A text generation program using GloVe embeddings and traditional ML algorithms.
+# VectorGen 
+A text generation program using word vectors and traditional ML algorithms.
